@@ -38,23 +38,23 @@ a {
 nav,
 span {
   height: 100px;
-} 
+}
 
 nav > ul {
   height: 100px;
 }
 
 .hpc > article > h1 {
-  width:8ch;
+  width: 8ch;
 }
 
 .hpc > article > p {
   width: 700px;
 }
 
-.icon-s{
+.icon-s {
   width: 30px;
-  height: auto;  
+  height: auto;
 }
 
 .hpc > article {
@@ -62,8 +62,8 @@ nav > ul {
 }
 
 .home-img {
- max-width: 100%;
- height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .w-title {
@@ -94,12 +94,12 @@ nav > ul {
   border: 2px solid grey;
 }
 
-.wsc > article >ul {
+.wsc > article > ul {
   max-width: 50%;
 }
 
 .t-b-color {
-  color: #091e42; 
+  color: #091e42;
 }
 
 .see-proj {
@@ -109,7 +109,7 @@ nav > ul {
   background-color: #f55800;
 }
 
-.whole-w-p-container{
+.whole-w-p-container {
   margin: 0 auto;
   margin-top: 50px;
 }
