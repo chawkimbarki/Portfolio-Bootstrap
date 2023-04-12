@@ -1,6 +1,13 @@
-header {
+.header-color {
   background-color: #3e3c3c;
   height: 100px;
 }
 
-@include '';
+.m-p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
