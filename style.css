@@ -11,3 +11,50 @@
 a {
   text-decoration: none;
 }
+
+.hpc {
+  background-color: #1c1a19;
+  height: 600px;
+  overflow-y: hidden;
+}
+
+.wsc {
+  background-color: white;
+}
+
+.tx-design {
+  font-size: 3rem;
+  font-family: 'Inter', sans-serif;
+  color: #f55800;
+}
+
+nav,
+span {
+  height: 100px;
+} 
+
+nav > ul {
+  height: 100px;
+}
+
+.hpc > article > h1 {
+  width:8ch;
+}
+
+.hpc > article > p {
+  width: 700px;
+}
+
+.icon-s{
+  width: 20%;
+  height: auto;  
+}
+
+.hpc > article {
+  background-color: #1c1a19;
+}
+
+.home-img {
+ max-width: 100%;
+ height: auto;
+}
