@@ -1,0 +1,138 @@
+html,
+body {
+  width: 100%;
+  height: auto;
+  overflow-x: hidden;
+}
+
+.header-color {
+  background-color: #3e3c3c;
+  height: 100px;
+}
+
+.m-p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.hpc {
+  background-color: #1c1a19;
+  height: 600px;
+  overflow-y: hidden;
+}
+
+.wsc {
+  background-color: white;
+}
+
+.tx-design {
+  font-size: 3rem;
+  font-family: 'Inter', sans-serif;
+  color: #f55800;
+}
+
+nav,
+span {
+  height: 100px;
+}
+
+nav > ul {
+  height: 100px;
+}
+
+.hpc > article > h1 {
+  width: 8ch;
+}
+
+.hpc > article > p {
+  width: 700px;
+}
+
+.icon-s {
+  width: 30px;
+  height: auto;
+}
+
+.hpc > article {
+  background-color: #1c1a19;
+}
+
+.home-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.w-title {
+  color: #091e42;
+}
+
+.w-s-t-img {
+  max-width: 50%;
+  height: 5%;
+}
+
+.wsc > article > h3,
+.w-s-p-title {
+  color: #091e42;
+}
+
+.w-s-f-text {
+  width: 500px;
+  word-wrap: break-word;
+  color: #091e42;
+}
+
+.w-s-p-img {
+  width: 40%;
+}
+
+.btn-color {
+  border: 2px solid grey;
+}
+
+.wsc > article > ul {
+  max-width: 50%;
+}
+
+.t-b-color {
+  color: #091e42;
+}
+
+.see-proj {
+  width: fit-content;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #f55800;
+}
+
+.whole-w-p-container {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.sec-but {
+  border: 1px solid grey;
+  background-color: rgba(255, 255, 255, 0.466);
+  color: white;
+}
+
+.single-proj {
+  background-image: url(assets/images/Img-proj-work-section.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20rem;
+  height: auto;
+  column-gap: 2rem;
+}
+
+.button-wrapp {
+  background-color: #f55800;
+  width: 20rem;
+  border: 1px solid lightgray;
+  height: 50px;
+  color: white;
+}
